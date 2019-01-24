@@ -1,2 +1,2 @@
 User-agent: *
-Disallow:/old (echoes)/
+Disallow:/old%20(echoes)/
